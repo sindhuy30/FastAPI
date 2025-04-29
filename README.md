@@ -1,4 +1,4 @@
-# Task-Tracker - FastAPI Project
+# TaskTracker - FastAPI Project
 
 This is a simple TaskTracker built to create new tasks or todo's using FastAPI.
 
